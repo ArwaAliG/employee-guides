@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>أدلة الإدارة</title>
+
+<style>
+
+body{
+
+font-family:Tahoma;
+background:#f4f4f4;
+direction:rtl;
+padding:40px;
+
+}
+
+.container{
+
+background:white;
+padding:30px;
+border-radius:10px;
+max-width:700px;
+margin:auto;
+
+}
+
+h1{
+
+color:#1565c0;
+
+}
+
+.guide{
+
+padding:15px;
+border-bottom:1px solid #ddd;
+
+display:flex;
+justify-content:space-between;
+align-items:center;
+
+}
+
+a{
+
+background:#1565c0;
+color:white;
+padding:8px 15px;
+text-decoration:none;
+border-radius:6px;
+
+}
+
+button{
+
+margin-top:30px;
+padding:12px 20px;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>📚 أدلة الإدارة</h1>
+
+<div class="guide">
+
+دليل الأجهزة
+
+<a href="#">فتح</a>
+
+</div>
+
+<div class="guide">
+
+سياسة الأمن
+
+<a href="#">فتح</a>
+
+</div>
+
+<div class="guide">
+
+دليل الموظفين
+
+<a href="#">فتح</a>
+
+</div>
+
+<button>
+
+⬆️ رفع دليل
+
+</button>
+
+</div>
+
+</body>
+
+</html>
